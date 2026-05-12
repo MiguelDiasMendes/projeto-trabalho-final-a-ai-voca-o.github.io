@@ -1065,7 +1065,9 @@ h2 {
   .banner-content h2 {
     font-size: 1.8rem;
   }
-   /* Botão "Adicionar ao carrinho" dentro do card */
+   
+}
+/* Botão "Adicionar ao carrinho" dentro do card */
 .btn-adicionar {
   display: block;
   /* Ocupa a linha toda */
@@ -1091,5 +1093,4 @@ h2 {
 /* Animação "pulo" quando clica em adicionar */
 .btn-adicionar:active {
   transform: scale(0.97);
-}
 }
