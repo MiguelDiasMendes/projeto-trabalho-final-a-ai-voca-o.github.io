@@ -442,7 +442,7 @@ body {
   height: 50vh;
   /* 90% da altura da tela */
   min-height: 50px;
-  background: url("/img/beneficios-do-acai.jpg") center/cover no-repeat;
+  background: url("img/beneficios-do-acai.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
